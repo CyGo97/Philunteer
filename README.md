@@ -1,6 +1,8 @@
 # Philunteer
 
-This is an app that was made for Femmehacks 2017, an all-women hackathon. 
+This is an app that was made for Femmehacks 2017, an all-women hackathon, and won Best Philly Hack
+
+The team: Cyrena Gonzalez, Diana Shiling, Vivian Dai
 
 Inspiration: 
 We are students at the University of Pennsylvania in Philadelphia and we feel passionate about giving back to the community. What better way to do this if not through combining it with our other passion for computer science?
